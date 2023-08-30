@@ -2,7 +2,7 @@
 # Maintained at https://github.com/rixx/pkgbuilds, feel free to submit patches
 
 pkgname=python311
-pkgver=3.11.2
+pkgver=3.11.5
 pkgrel=1
 _pybasever=3.11
 _pymajver=3
